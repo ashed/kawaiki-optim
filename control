@@ -1,0 +1,13 @@
+Source: kawaiki-icons
+Section: gnome
+Priority: extra
+Maintainer: Umair Riaz <noobslab.com@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.3
+Homepage: http://www.NoobsLab.com
+
+Package: kawaiki-icons
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Kawaiki Icons uploaded on NoobsLab.com PPA
+	Creator Url - http://gnome-look.org/content/show.php/Kawaiki?content=157811
