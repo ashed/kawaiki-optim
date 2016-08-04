@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="add-folder-to-archive.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    version="1.1"
    id="svg2"
    height="128"
@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.712923"
-     inkscape:cx="98.737066"
-     inkscape:cy="11.404927"
+     inkscape:zoom="2.71292"
+     inkscape:cx="161.329"
+     inkscape:cy="18.6935"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1280"
+     inkscape:window-height="992"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
@@ -594,10 +594,12 @@
        rx="3.0975735"
        ry="3.0975735" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 27 26.5 C 23.433594 26.5 20.5 29.43359 20.5 33 L 20.5 34 L 24.5 34 L 24.5 33 C 24.5 31.58041 25.580406 30.5 27 30.5 L 30 30.5 L 30 26.5 L 27 26.5 z M 34 26.5 L 34 30.5 L 38 30.5 L 38 26.5 L 34 26.5 z M 42 26.5 L 42 30.5 L 81 30.5 C 82.419594 30.5 83.5 31.58041 83.5 33 L 83.5 37.5 L 83.5 39.5 L 85.5 39.5 C 86.919594 39.5 88 40.58041 88 42 L 88 55.5 C 88 56.91959 86.919594 58 85.5 58 L 83.5 58 L 83.5 60 L 83.5 96 C 83.5 97.4196 82.419594 98.5 81 98.5 L 27 98.5 C 25.580406 98.5 24.5 97.4196 24.5 96 L 24.5 46 L 20.5 46 L 20.5 96 C 20.5 99.5664 23.433594 102.5 27 102.5 L 81 102.5 C 84.566406 102.5 87.5 99.5664 87.5 96 L 87.5 61.59375 C 90.088229 60.73516 92 58.36118 92 55.5 L 92 42 C 92 39.13882 90.088229 36.76484 87.5 35.90625 L 87.5 33 C 87.5 29.43359 84.566406 26.5 81 26.5 L 42 26.5 z M 20.5 38 L 20.5 42 L 24.5 42 L 24.5 38 L 20.5 38 z "
-       transform="translate(0,924.36218)"
-       id="rect4020" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:4;marker:none;enable-background:accumulate"
+       d="m 27,26.5 c -3.5664,0 -6.5,2.9336 -6.5,6.5 l 0,1 4,0 C 24.563,30.4458 26,30.5 30,30.5 l 0,-4 z m 7,0 0,4 4,0 0,-4 z m 8,0 0,4 39,0 c 1.4196,0 2.5,1.0804 2.5,2.5 l 0,6.5 2,0 c 1.4196,0 2.5,1.0804 2.5,2.5 l 0,13.5 c 0,1.4196 -1.0804,2.5 -2.5,2.5 l -2,0 0,38 c 0,1.4196 -1.0804,2.5 -2.5,2.5 l -54,0 c -1.4196,0 -2.5,-1.0804 -2.5,-2.5 l 0,-50 -4,0 0,50 c 0,3.5664 2.9336,6.5 6.5,6.5 l 54,0 c 3.5664,0 6.5,-2.9336 6.5,-6.5 l 0,-34.4062 C 90.0882,60.7352 92,58.3612 92,55.5 L 92,42 c 0,-2.8612 -1.9118,-5.2352 -4.5,-6.0937 L 87.5,33 c 0,-3.5664 -2.9336,-6.5 -6.5,-6.5 z M 20.5,38 l 0,4 4,0 0,-4 z"
+       transform="translate(0,924.362)"
+       id="rect4020"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccccscccccccsccssssccsssccsssscsscsscccccc" />
     <path
        style="fill:url(#radialGradient5503);fill-opacity:1;stroke:none"
        d="m 32,944.36218 0,16 -16,0 0,8 16,0 0,16 8,0 0,-16 16,0 0,-8 -16,0 0,-16 -8,0 z"
