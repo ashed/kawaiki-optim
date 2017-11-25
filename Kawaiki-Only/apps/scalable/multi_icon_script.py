@@ -9,7 +9,7 @@ import glob
 #     --export-height=HEIGHT --export-png=FILENAME
 
 # USAGE:
-#    mutli_icon_script -multi
+#    multi_icon_script -multi
 #    or
 #    multi_icon_script -single icon.svg
 #
