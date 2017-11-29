@@ -14,8 +14,10 @@
    height="128"
    id="svg3829"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92+devel (unknown)"
    sodipodi:docname="drive-harddisk-scsi.svg">
+  <title
+     id="title88">drive-harddisk-scsi</title>
   <defs
      id="defs3831">
     <linearGradient
@@ -332,20 +334,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="-17.134814"
-     inkscape:cy="52.220563"
+     inkscape:zoom="2"
+     inkscape:cx="281.837"
+     inkscape:cy="-51.6245"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="969"
+     inkscape:window-height="965"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3837"
@@ -362,7 +365,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>drive-harddisk-scsi</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>drive</rdf:li>
+            <rdf:li>harddisk</rdf:li>
+            <rdf:li>scsi</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>drive, harddisk, scsi</dc:description>
       </cc:Work>
     </rdf:RDF>
   </metadata>
