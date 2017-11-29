@@ -15,7 +15,7 @@
    viewBox="0 0 512 512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92+devel (unknown)"
    sodipodi:docname="contact_away_overlay.svg">
   <defs
      id="defs4">
@@ -85,9 +85,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="281.306"
-     inkscape:cy="121.984"
+     inkscape:zoom="0.494975"
+     inkscape:cx="201.59"
+     inkscape:cy="161.643"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -97,32 +97,39 @@
      inkscape:window-width="1280"
      inkscape:window-height="965"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="246.477,299.005"
        orientation="1,0"
-       id="guide22" />
+       id="guide22"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="461.64,21.2132"
        orientation="0,1"
-       id="guide24" />
+       id="guide24"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="544.472,262.64"
        orientation="0,1"
-       id="guide26" />
+       id="guide26"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="487.143,324.286"
        orientation="1,0"
-       id="guide33" />
+       id="guide33"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="521.239,39.901"
        orientation="0,1"
-       id="guide35" />
+       id="guide35"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="471.429,81.4286"
        orientation="0.93528,0.353909"
-       id="guide37" />
+       id="guide37"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
